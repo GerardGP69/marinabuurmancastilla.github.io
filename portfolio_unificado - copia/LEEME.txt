@@ -1,0 +1,17 @@
+PORTFOLIO EN UN SOLO HTML
+
+Abre portfolio.html con tu navegador.
+El CSS y el JavaScript están integrados en el propio HTML; no necesitas style.css ni script.js por separado.
+
+IMPORTANTE SOBRE LAS FOTOS:
+El HTML usa imágenes con rutas como media/hero.svg, media/que-arda.svg, media/bar.svg y media/perfume.svg. Para que aparezcan, coloca los archivos de imagen originales en una carpeta llamada media junto a portfolio.html. Esos archivos multimedia no estaban disponibles entre los archivos proporcionados en esta conversación, por eso no se han podido incluir en este paquete.
+
+Antes de publicar, revisa el correo de contacto y sustituye el correo provisional por el tuyo.
+
+
+CONTACTO CONFIGURADO
+Correo: mbuurmancastilla06@gmail.com
+Teléfono: +34 669 40 12 54
+Base: Blanes, 17300
+
+El formulario prepara un correo dirigido a esa dirección y abre la aplicación de correo del visitante. Por seguridad, una página HTML estática no puede enviar correos por sí sola: el visitante tendrá que pulsar Enviar en su aplicación de correo.
